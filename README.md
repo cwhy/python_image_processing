@@ -1,2 +1,3 @@
-# python_image_processing
-Process images using Python
+# Python image processing
+
+My personal toolbox, trying to eliminate most of my Photoshop usage.
